@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @alaminhossain01615
 - 👀 I’m final year undergrad student
 - 🌱 Currently pursuing BSc in Electrical and Electronic Engineering
-- 💞️ I am a data enthusiast, learning data analytics, data science, data-driven control and machine learning everyday.
-- 📫 
+- 💞️ I am a data enthusiast, learning data analytics, data science, data-driven control and machine learning everyday 
