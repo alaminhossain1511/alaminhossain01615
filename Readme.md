@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @alaminhossain01615
-- 👀 I’m final year undergrad student
-- 🌱 Currently pursuing BSc in Electrical and Electronic Engineering
-- 💞️ I am a data enthusiast, learning data analytics, data science, data-driven control and machine learning everyday 
+- 👋 Hi, I’m Al-Amin Hossain
+- 👀 I’m Data enthusiast
+- 💞️Learning Data science, Machine Learning everyday
+- 💞️Have research experience in Time series analysis, Signal Processing and Machine Learning 
+- 🌱 Pursued BSc in Electrical and Electronic Engineering
